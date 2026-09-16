@@ -1,0 +1,6 @@
+{
+  "name": "Netwon Cars Kangundo Road",
+  "description": "Premier car dealership located along Kangundo Road, Nairobi, Kenya. Explore quality verified cars for sale, trade-ins, car financing, and viewing appointments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
